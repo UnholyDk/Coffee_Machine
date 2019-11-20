@@ -1,7 +1,7 @@
 import java.util.Scanner
 import kotlin.math.min
 
-fun step1() {
+fun step2() {
     val scanner = Scanner(System.`in`)
     val cups:Int = scanner.nextInt()
     println("Write how many cups of coffee you will need: $cups")
