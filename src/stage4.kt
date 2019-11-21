@@ -1,4 +1,4 @@
-package machine
+/*package machine
 
 import java.util.Scanner
 import kotlin.math.min
@@ -75,4 +75,4 @@ fun main() {
     coffeeMachine.printStatus()
     coffeeMachine.whatWouldYouLike()
     coffeeMachine.printStatus()
-}
+}*/
